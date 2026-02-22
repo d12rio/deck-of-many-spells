@@ -45,3 +45,6 @@ next-env.d.ts
 
 # licensed work of spells
 /src/data/*.json
+
+# Claude
+.claude/*
